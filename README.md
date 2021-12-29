@@ -1,7 +1,10 @@
 # SSVEP-BCI characterization
 
 ## short description
-Data and code for the metrological characterization of a low-cost wearable brain-computer interface relying on SSVEP
+Data and code for the metrological characterization of a low-cost wearable brain-computer interface relying on SSVEP.
+
+Data are provided as .mat files.
+Code was implemented in Matlab R2020b as an example of data processing.
 
 ## less short description
 The low-cost wearable brain-computer interface operation relies on steady-state visually evoked potentials (SSVEP).
@@ -17,8 +20,8 @@ Hence the uploaded data are related to:
 
 
 The provided code allows to:
-- characterize the flickering stimuli in terms of spectral content (amplitude);
-- characterize the low-cost electroencephalograph in terms of linearity and gain error;
+- characterize the flickering stimuli in terms of spectral content (amplitude) - see 'BT200_characterization_main.m';
+- characterize the low-cost electroencephalograph in terms of linearity and gain error - see 'EEG_SMT_characterization_main.m';
 
 
 ## further details
