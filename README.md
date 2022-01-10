@@ -30,6 +30,7 @@ In order to reproduce our results as a starting point for your analyses, you can
 2. extract zip folder on your PC
 3. for an example of flickering stimuli characterization, open "BT200_characterization_main.m" in the "BT-200 characterization" folder, and be sure to have the "BT200 frequency scan" subfolder with data (.mat files)
 4. for an example of electroencephalograph characterization, open "EEG_SMT_characterization_main.m" in the "EEG-SMT characterization" folder, and be sure to have the "frequency scan" and "linearity" subfolders with data (.mat files); the subfolder "sinefit" is provided as well for the sine fitting algorithm needed within the script
+5. enjoy
 
 ## further details
 
