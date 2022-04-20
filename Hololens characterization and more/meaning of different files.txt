@@ -1,0 +1,4 @@
+ON:		Hololens display was on with no flickerin icon
+TAPE:		same taper was put on camera sensors while Hololens was on
+STANDY:		Hololens display was in stand-by mode
+FLICK:		Holelens display was on and and icon was flickering
