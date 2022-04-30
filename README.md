@@ -6,6 +6,8 @@ Data and code for the metrological characterization of a low-cost wearable brain
 Data are provided as .mat files.
 Scripts were implemented in Matlab R2020b, but they could be used with previous versions of Matlab. 
 
+Smart glasses data is available for the Epson Moverio BT-200, but also for the Moverio BT-350 and Microsoft Hololens!
+
 ## less short description
 The low-cost wearable brain-computer interface operation relies on steady-state visually evoked potentials (SSVEP).
 This system was implemented with:
